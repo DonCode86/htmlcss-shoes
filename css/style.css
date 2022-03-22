@@ -20,13 +20,6 @@
     background-color: yellow;
 }
 
-/* .main-nav ul li { */
-    /* display: inline-block; */
-    /* float: left; */
-    /* margin: 10px; */
-    /* position: fixed; */
-/* } */
-
 .main-nav, .main-nav ul li {
     display: inline-block;
 }
