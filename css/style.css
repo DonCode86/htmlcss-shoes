@@ -39,6 +39,7 @@ header {
     position: fixed;
     top: 25px;
     right: 25px;
+    z-index: 10;
 }
 
 .circle-button {
@@ -50,4 +51,15 @@ header {
     line-height: 30px;
     font-weight: bold;
     margin: 15px 30px;
+}
+
+section {
+    position: relative;
+}
+
+.shoes-picture {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
