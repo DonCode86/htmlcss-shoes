@@ -57,9 +57,17 @@ section {
     position: relative;
 }
 
-.shoes-picture {
+.img-text {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 40px;
+    color: yellow;
+    font-weight: bold;
+}
+
+.img-text.green {
+    color: green;
 }
