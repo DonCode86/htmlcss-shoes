@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+[class*="section"] {
+    height: 100vh;
+}
+
+.up-section {
+    background-color: red;
+}
+
+.mid-section {
+    background-color: green;
+}
+
+.bottom-section {
+    background-color: yellow;
+}
