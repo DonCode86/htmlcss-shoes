@@ -19,3 +19,35 @@
 .bottom-section {
     background-color: yellow;
 }
+
+/* .main-nav ul li { */
+    /* display: inline-block; */
+    /* float: left; */
+    /* margin: 10px; */
+    /* position: fixed; */
+/* } */
+
+.main-nav, .main-nav ul li {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    position: fixed;
+    top: 25px;
+    right: 25px;
+}
+
+.circle-button {
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    background-color: white;
+    text-align: center;
+    line-height: 30px;
+    font-weight: bold;
+    margin: 15px 30px;
+}
