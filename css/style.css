@@ -28,7 +28,7 @@ html {
     display: inline-block;
 }
 
-a {
+.main-nav li a {
     text-decoration: none;
     padding: 10px;
 }
