@@ -45,12 +45,12 @@ header {
 }
 
 .circle-button {
-    width: 30px;
-    height: 30px;
+    width: 35px;
+    height: 35px;
     border-radius: 100%;
     background-color: white;
     text-align: center;
-    line-height: 30px;
+    line-height: 35px;
     font-weight: bold;
     margin: 15px 30px;
 }
@@ -65,7 +65,7 @@ section {
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    font-size: 40px;
+    font-size: 35px;
     color: yellow;
     font-weight: bold;
 }
